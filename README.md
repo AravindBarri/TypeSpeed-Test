@@ -1,6 +1,6 @@
 # TypeSpeed-Test
 
-Upsolvers Labs - Student Community & Development Services
+Upsolvers Labs - Student Community & Development Services https://www.upsolverslabs.com/
 
 Open Software Access for learning
 
