@@ -10,6 +10,7 @@ prompt = random.choice(["A lion was once sleeping in the jungle when a mouse sta
 
 def counter():
 	i = 0
+	print("Upsolvers Labs - Student Community & Development Services\nOpen Software Access for learning")
 	print("\n\n        Type the below paragraph as fast as you can and press enter only if completed           ")
 	print("\n\n"+prompt+"\n\n")
 	input(">> By pressing Enter will start measuring your typing speed and timer\n>> Press Enter to start \t\t")
